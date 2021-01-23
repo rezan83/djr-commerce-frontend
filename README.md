@@ -1,6 +1,6 @@
-# djr-commerce frontend
+# React template made with Parcel
 
-React frontend for Django-react-jwt commerce
+React + Redux + SASS template
 
 ## Setup
 ```yarn```
